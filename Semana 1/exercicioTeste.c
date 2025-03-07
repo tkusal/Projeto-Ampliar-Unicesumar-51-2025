@@ -11,7 +11,7 @@ int main() {
 
     resultado = num1 + num2;
 
-    printf("A soma dos números é igual a: %d\n", resultado);
+    printf("A soma dos números é igual a: %d\nFim!", resultado);
 
     return 0;
 }
