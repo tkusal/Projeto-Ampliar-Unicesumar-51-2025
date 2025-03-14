@@ -15,10 +15,19 @@ Monitor:
 ---
 Segue abaixo nosso cronograma:
 
-| Data       | Evento                                         |
-|:----------:|:----------------------------------------------:|
-| 25/02/2025 | Aula Inaugural - Semana 1 - Conceitos Básicos  |
-
+| Data       | Planejamento                                 |
+|:----------:|:--------------------------------------------:|
+| 25/02/2025 | Semana 1 - Apresentação e Conceitos Básicos  |
+| 04/03/2025 | Semana 2 - Revisão dos Conceitos Básicos     |
+| 11/03/2025 | Semana 3 - Estruturas Condicionais           |
+| 18/03/2025 | Semana 4 - Estruturas de Repetição           |
+| 25/03/2025 | Semana 5 - NÃO TEM MONITORIA                 |
+| 01/04/2025 | Semana 6 - Revisão e Estruturas Homogêneas   |
+| 08/04/2025 | Semana 7 - Estruturas Heterogêneas           |
+| 15/04/2025 | Semana 8 - Sub-Rotinas                       |
+| 22/04/2025 | Semana 9 - Ponteiros e Revisão geral         |
+| 24/04/2025 | Última aula de monitoria no módulo 51/25     |
+| 28/04/2025 | Semana de Provas na UniCesumar               |
 
 ---
 ## Pré-Requisitos
